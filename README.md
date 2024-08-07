@@ -93,15 +93,17 @@ Feel free to contribute to this project! Fork the repository, make your changes,
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ### 📞 Contact
 
-If you have any questions or need further assistance, please reach out!
+If you have any questions , please reach me out!
 
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Email: hsiddique667@gmail.com
+- GitHub: [Your GitHub Profile](https://github.com/yeahyeahassan    )
+
+
+![Thank You](https://img.shields.io/badge/Thank%20You!-blue?style=flat-square&logo=smile)
+
+<!-- Graphical GIF Animation -->
+<div class="gif-container" style="text-align: center; margin-bottom: 20px;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdob2I4cHdsdWhnbmtmYTBxbnk4cnl2YjZ1bGw5ZGZvMXBwdWc4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/00n6TSoGffGTLXSMPO/giphy.gif" alt="Working on it GIF" />
+</div>
