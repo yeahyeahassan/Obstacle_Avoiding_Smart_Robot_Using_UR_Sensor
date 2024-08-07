@@ -80,13 +80,6 @@ Make sure to download and install the required library for controlling the motor
 
 ---
 
-## 📸 Project Images
-
-![ESP32 Robot Car](https://via.placeholder.com/500x300.png?text=ESP32+Robot+Car)  
-*Figure: ESP32 Obstacle Avoiding Robot Car*
-
----
-
 ## 🤝 Contributing
 
 Feel free to contribute to this project! Fork the repository, make your changes, and submit a pull request. Any enhancements, bug fixes, or new ideas are welcome!
